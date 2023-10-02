@@ -1,3 +1,3 @@
 # Test
-My first test repositories
+My first test Directory
 Author - Vishesh Kumar Bhagat
