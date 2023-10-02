@@ -10,7 +10,11 @@ int main() {
 
     // Print the upper half of the diamond
     for (int i = 1; i <= n; i++) {
+<<<<<<< HEAD
         // Print spaces for the current line//adding different dummy line in the code
+=======
+        // Print spaces for the current line//adding a test dummy line
+>>>>>>> main
         for (int j = 1; j <= n - i; j++) {
             cout << " ";
         }
